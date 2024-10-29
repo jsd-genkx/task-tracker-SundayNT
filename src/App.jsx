@@ -1,9 +1,9 @@
 import './App.css'
-import Task from './componentapp/component'
+import TaskForm from './componentapp/taskform'
 
 export default function App() {
   return (
-    <Task />
+    <TaskForm />
   )
 }
 
